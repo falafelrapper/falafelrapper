@@ -18,7 +18,7 @@ My name is Zach! Currently I am a full stack web developer who is learning more 
 
 ## Where to reach me
 You can reach me at the following:
-- [LinkedIn]("https://www.linkedin.com/in/zachary-maxwell-roy/")
+- [LinkedIn](https://www.linkedin.com/in/zachary-maxwell-roy/)
 
 <!--
 **falafelrapper/falafelrapper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
