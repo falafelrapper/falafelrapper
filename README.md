@@ -9,7 +9,6 @@ My name is Zach! Currently I am a full stack web developer who is learning more 
 
 ## Projects I am currently working on
 - Bracket: A social media platform for the fighting game community that utilizes the power of competition to bring the FGC together through tournaments, player/character data, and social functionality
-- Property site that I am working on with some graduates from UCLA's program
 
 ## Things to get to know me
 - Pronouns: he/him
