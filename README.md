@@ -8,7 +8,7 @@ My name is Zach! Currently I am a full stack web developer who is learning more 
 - Overall: OOP, Computer Science, MVC, Git, Powershell
 
 ## Projects I am currently working on
-- Bracket: A social media platform for the fighting game community that utilizes the power of competition to bring the FGC together through tournaments, player/character data, and social functionality
+Currently just working on little portfolio things, check back here when I have bigger and better projects being worked on!
 
 ## Things to get to know me
 - Pronouns: he/him
