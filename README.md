@@ -6,7 +6,6 @@ My name is Zach! Currently I am a full stack web developer who is learning more 
 - Backend: REST APIs, SQL, NoSQL (MongoDB), APIs, AWS, GraphQL
 - Frameworks: React, Svelte/Sveltekit, Next.js, Node.js, Express.js
 - Languages: Javascript, Typescript, Python, C++, C#, HTML, SCSS/CSS
-- Overall: OOP, Computer Science, MVC, Git, Powershell
 
 ## Projects I am currently working on
 LuckyKat is my current project that I have been working on for the past two years that is the next generation of pitch deck creation. You can view it at LuckyKat.app!
